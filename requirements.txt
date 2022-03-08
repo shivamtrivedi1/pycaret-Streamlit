@@ -1,3 +1,2 @@
-pycaret==1.0.0
+pycaret==2.3.6
 streamlit
-catboost==0.20.2
